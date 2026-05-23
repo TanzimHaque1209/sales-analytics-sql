@@ -12,7 +12,7 @@ The project demonstrates core SQL concepts used in data analyst roles, including
 
 The workbook uses two main tables:
 
-### 1. `sales`
+### 1. Sales
 
 Contains order-level sales data, including:
 
@@ -23,7 +23,7 @@ Contains order-level sales data, including:
 * Quantity
 * Sales amount
 
-### 2. `products`
+### 2. Products
 
 Contains product information, including:
 
